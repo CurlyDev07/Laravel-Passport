@@ -10,3 +10,5 @@ This tutorial has an eight steps.
 7. Create API Route
 8. Create the Controller.
 9. Run.
+
+https://medium.com/modulr/create-api-authentication-with-passport-of-laravel-5-6-1dc2d400a7f
